@@ -14,7 +14,7 @@ Feito com :
 
 ![Captura de tela 2023-01-22 135008](https://user-images.githubusercontent.com/88461178/213928112-fd2b4456-3471-4c4f-8f05-e5046193b271.jpg)
 
-### Deploy:
+### Deploy:  https://mizarocha.github.io/Dicionario/
 
 
 <h3 align="center"> Autora: Artemiza Rocha </h3>           
